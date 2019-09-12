@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config-element id="644802d7-48f5-43e7-8da1-9c0e3fa5f8e3" version="0.0.0">
+  <display-name><![CDATA[VMInformations]]></display-name>
+  <atts>
+    <att name="IPAddress" type="string" read-only="false">
+      <value encoded="n"><![CDATA[10.111.64.52]]></value>
+      <description><![CDATA[VM IP Address]]></description>
+    </att>
+    <att name="Hostname" type="string" read-only="false">
+      <value encoded="n"><![CDATA[vra-iaas01.umitlab.com]]></value>
+      <description><![CDATA[Hostname]]></description>
+    </att>
+  </atts>
+</config-element>
